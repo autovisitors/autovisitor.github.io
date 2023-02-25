@@ -1,0 +1,18 @@
+#vueApp {
+    background: rgba(0, 0, 0, .05);
+}
+
+.header-section {
+    height: auto;
+    text-align: center;
+    padding: 5% 0;
+    margin: 0 auto;
+}
+
+#vueApp .card {
+    margin: 34px 0;
+}
+
+.credits {
+    margin-top: 15px;
+}
